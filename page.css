@@ -1,0 +1,25 @@
+body{
+    background-image: linear-gradient(to left, red,purple);
+    background-position: center;
+
+}
+h2,h3{
+    color: wheat;
+    text-align: center;
+    margin-top: 40px;
+
+}
+.fetch a{
+    text-decoration: none;
+    background-image: linear-gradient(to left,yellow,yellowgreen);
+    padding: 10px 25px;
+    color: black;
+    border-radius: 20px;
+}
+.da a{
+    text-decoration: none;
+    margin: 700px;
+    padding: 10px 25px;
+    background-image: linear-gradient(to right,pink,plum);
+    border-radius: 30px;
+}

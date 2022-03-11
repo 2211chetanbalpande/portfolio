@@ -1,0 +1,27 @@
+#class{
+    background: crimson;
+    color: white;
+    border-radius: 20px;
+    padding: 10px 25px;
+}
+#back{
+    background: greenyellow;
+    color: white;
+    border-radius: 20px;
+    padding: 10px 25px;
+}
+.mail{
+    margin-top: 200px;
+    margin-left: 600px;
+     border: groove 20px;
+    border-color: blueviolet; 
+    margin-right: 600px;
+    padding: 20px;
+    background-image: url(photo-1519750783826-e2420f4d687f.jfif);
+    background-position: center;
+    font-size: large;
+}
+body{
+    background-image: url(biE6HQ.png);
+    background-position: center;
+}
